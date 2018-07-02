@@ -5,10 +5,7 @@
     "port": 8443,
     "username": "root",
     "password": "password",
-    "project": { "D:/Users/puunyar7/Documents/SAND/LAB/code" : { "path":"/root/go/src", "save" : true } },
-    "syncMode": "update",
-    "sshextension.customCommands": [
-        "pwd",
-        "ls"
-    ]
+    "path":"/root/go/src",
+    "confirm" : false,
+    "syncMode": "update"
 }
